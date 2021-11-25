@@ -1,12 +1,4 @@
 
-.p {
-
-    font-size: 20px;
-    color: black;
-    background-color: white;
-
-
-}
 
 
 #lista1:hover {
@@ -40,30 +32,37 @@
 
 .col-4 {
 
-    border-radius: 50px;
     border: solid black;
     background-color: red;
+    margin: 20px;
+    padding: 20px;
+    width: auto;
     
+
 }
     
 
 
 .col-6 {
  
-    border-radius: 50px;
     border: solid black;
     background-color: yellow;
-
+    margin: 20px;  
+    padding: 20px;
+    width: auto;
+    
 
 }
 
 
 .col-12 {
  
-    border-radius: 50px;
     border: solid black;
     background-color: green;
-
+    margin: 20px;
+    padding: 20px;
+    width: auto;
+    
 
 }
 
@@ -83,6 +82,14 @@
     
 
 
+.p {
+
+    font-size: 30px;
+    color: black;
+    
+        
+    }
+    
 
 
 @media only screen and (max-width: 800px) {
