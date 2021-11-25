@@ -1,6 +1,17 @@
 
 
 
+.footer {
+    
+    position: fixed; bottom: 0; left: 0; right: 0; height: 6%; width: 100%;
+    font-size: 20px;
+    border: solid black;
+    background-color: white;
+    
+}
+
+
+
 #lista1:hover {
 
     background-color: red;
@@ -74,10 +85,12 @@
     width: 50%;
 }
 
-.navbar {
+.navbar-expand-sm {
 
-    .navbar-expand-lg
-    
+    font-size: 10px;
+    border: solid;
+    background-color: white;
+
     }
     
 
