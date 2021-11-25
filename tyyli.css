@@ -41,7 +41,31 @@
 }
 
 
-#Yksi {
+#Yksi1 {
+
+    border: solid black;
+    background-color: red;
+    margin: 20px;
+    padding: 20px;
+    width: auto;
+    
+
+}
+    
+#Yksi2 {
+
+    border: solid black;
+    background-color: red;
+    margin: 20px;
+    padding: 20px;
+    width: auto;
+    
+
+}
+
+
+
+#Yksi3 {
 
     border: solid black;
     background-color: red;
@@ -54,7 +78,7 @@
     
 
 
-#Kaksi {
+#Kaksi1 {
  
     border: solid black;
     background-color: yellow;
@@ -66,7 +90,19 @@
 }
 
 
-#Kolme {
+
+#Kaksi2 {
+ 
+    border: solid black;
+    background-color: yellow;
+    margin: 20px;  
+    padding: 20px;
+    width: auto;
+    
+
+}
+
+#Kolme1 {
  
     border: solid black;
     background-color: green;
@@ -77,6 +113,17 @@
 
 }
 
+
+#Kolme2 {
+ 
+    border: solid black;
+    background-color: green;
+    margin: 20px;
+    padding: 20px;
+    width: auto;
+    
+
+}
 
 .center {
     display: block;
@@ -91,7 +138,7 @@
     border: solid;
     background-color: white;
     width: auto;
-    
+
 
     }
     
