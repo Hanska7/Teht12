@@ -12,7 +12,7 @@
 
 
 
-#lista1:hover {
+#lista11:hover {
 
     background-color: red;
     transition: all;
@@ -21,8 +21,16 @@
 }
 
 
+#lista12:hover {
 
-#lista2:hover {
+    background-color: red;
+    transition: all;
+    font-size: 30px;
+
+}
+
+
+#lista21:hover {
 
     background-color: yellow;
     transition: all;
@@ -30,15 +38,31 @@
 
 }
 
+#lista22:hover {
 
+    background-color: yellow;
+    transition: all;
+    font-size: 30px;
 
-#lista3:hover {
+}
+
+#lista31:hover {
 
     background-color: green;
     transition: all;
     font-size: 30px;
 
 }
+
+
+#lista32:hover {
+
+    background-color: green;
+    transition: all;
+    font-size: 30px;
+
+}
+
 
 
 #Yksi1 {
