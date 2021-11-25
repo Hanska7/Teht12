@@ -1,0 +1,52 @@
+
+
+
+
+li:hover {
+
+    background-color: red;
+    transition: all;
+    font-size: 200px;
+
+}
+
+.col-4 {
+
+    border-radius: 50px;
+    border: solid black;
+    background-color: red;
+    
+}
+    
+
+
+.col-6 {
+ 
+    border-radius: 50px;
+    border: solid black;
+    background-color: yellow;
+
+
+}
+
+
+.col-12 {
+ 
+    border-radius: 50px;
+    border: solid black;
+    background-color: green;
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+    body {
+      background-color: black;
+      color:  white;
