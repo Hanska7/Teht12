@@ -30,7 +30,7 @@
 }
 
 
-.col-4 {
+#Yksi {
 
     border: solid black;
     background-color: red;
@@ -43,7 +43,7 @@
     
 
 
-.col-6 {
+#Kaksi {
  
     border: solid black;
     background-color: yellow;
@@ -55,7 +55,7 @@
 }
 
 
-.col-12 {
+#Kolme {
  
     border: solid black;
     background-color: green;
