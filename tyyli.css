@@ -30,6 +30,19 @@
 }
 
 
+#lista13:hover {
+
+    background-color: red;
+    transition: all;
+    font-size: 30px;
+
+}
+
+
+
+
+
+
 #lista21:hover {
 
     background-color: yellow;
@@ -45,6 +58,7 @@
     font-size: 30px;
 
 }
+
 
 #lista31:hover {
 
