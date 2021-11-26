@@ -1,5 +1,13 @@
 
+li:hover {
 
+    transition: 500ms;
+    font-size: 50px;
+    
+
+
+
+}
 
 .footer {
     
@@ -83,8 +91,8 @@
 
     border: solid black;
     background-color: red;
-    margin: 20px;
-    padding: 20px;
+    margin: 35px;
+    padding: 35px;
     width: auto;
     
 
@@ -94,8 +102,8 @@
 
     border: solid black;
     background-color: red;
-    margin: 20px;
-    padding: 20px;
+    margin: 35px;
+    padding: 35px;
     width: auto;
     
 
@@ -107,8 +115,8 @@
 
     border: solid black;
     background-color: red;
-    margin: 20px;
-    padding: 20px;
+    margin: 35px;
+    padding: 35px;
     width: auto;
     
 
@@ -120,8 +128,8 @@
  
     border: solid black;
     background-color: yellow;
-    margin: 20px;  
-    padding: 20px;
+    margin: 35px;  
+    padding: 35px;
     width: auto;
     
 
@@ -133,8 +141,8 @@
  
     border: solid black;
     background-color: yellow;
-    margin: 20px;  
-    padding: 20px;
+    margin: 35px;  
+    padding: 35px;
     width: auto;
     
 
@@ -144,8 +152,8 @@
  
     border: solid black;
     background-color: green;
-    margin: 20px;
-    padding: 20px;
+    margin: 35px;
+    padding: 35px;
     width: auto;
     
 
@@ -156,8 +164,8 @@
  
     border: solid black;
     background-color: green;
-    margin: 20px;
-    padding: 20px;
+    margin: 35px;
+    padding: 35px;
     width: auto;
     
 
