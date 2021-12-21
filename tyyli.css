@@ -6,8 +6,6 @@
 
 
 
-
-
 li:hover {
 
     transition: 500ms;
@@ -192,10 +190,10 @@ li:hover {
     font-size: 25px;
     color: white;
     border: solid;
-    width: 30%;
-    height: 30%;
+    width: 60%;
+    height: 60%;
     background-image: url("Dungeonkeeper.jpg");
-    background-position: center;
+    background-position: left;
     margin-left: 70%;
     
 }
@@ -212,6 +210,13 @@ p {
 }
 
 
+
+img {
+
+    max-width: 100%;
+    height: auto;
+
+}
 
 
     
