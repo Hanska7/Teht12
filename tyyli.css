@@ -91,6 +91,14 @@ li:hover {
 }
 
 
+#lista33:hover {
+
+    background-color: green;
+    transition: all;
+    font-size: 20px;
+
+}
+
 
 #Yksi1 {
 
@@ -175,6 +183,19 @@ li:hover {
     
 
 }
+
+
+#Kolme3 {
+ 
+    border: solid black;
+    background-color: green;
+    margin: 35px;
+    padding: 35px;
+    width: auto;
+    
+
+}
+
 
 .center {
     display: block;
